@@ -1,5 +1,5 @@
-# T-umacz
-Prosty tłumacz, który wykryje sam język w jakim piszemy tekst i przetłumaczy go na wybrany przez użytkownika język
+# Tłumacz
+Prosty tłumacz na Api google tłumacza, który wykryje sam język w jakim piszemy tekst i przetłumaczy go na wybrany przez użytkownika język
 
 UWAGA!!!
 Używałem interpretera : Python 3.9 (base)
